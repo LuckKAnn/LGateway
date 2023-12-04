@@ -1,4 +1,4 @@
-package com.luckk.lizzie;
+package com.luckk.lizzie.session;
 
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelHandlerContext;

@@ -1,4 +1,4 @@
-package com.luckk.lizzie;
+package com.luckk.lizzie.session;
 
 /**
  * @Author liukun.inspire

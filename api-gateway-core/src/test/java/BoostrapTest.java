@@ -1,4 +1,4 @@
-import com.luckk.lizzie.SessionServer;
+import com.luckk.lizzie.session.SessionServer;
 import io.netty.channel.Channel;
 import org.junit.Test;
 import org.slf4j.Logger;
